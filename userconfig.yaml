@@ -1,0 +1,10 @@
+# Configuration settings for the tool
+black_listed_ip:
+  - 217.168.1.2
+  - 192.37.115.0
+  - 212.242.33.35
+  - 147.137.21.94
+  - 192.168.14.212
+
+api_keys:
+  ipinfo: YOUR_IPINFO_API_KEY

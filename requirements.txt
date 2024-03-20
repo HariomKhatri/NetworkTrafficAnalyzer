@@ -1,0 +1,4 @@
+scapy
+requests
+pyyaml
+win10toast; sys_platform == 'win32'

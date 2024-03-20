@@ -12,7 +12,7 @@ The Network Traffic Analyzer is a Python-based tool designed to monitor and anal
 
 **Usage:**
 
-    **Installation:**
+     Installation:
         Clone the repository to your local machine.
         Install the required dependencies by running pip install -r requirements.txt.
 
